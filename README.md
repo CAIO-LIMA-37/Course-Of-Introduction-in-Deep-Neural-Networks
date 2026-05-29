@@ -113,8 +113,6 @@ Desenvolvido para a oficina prática do minicurso **"Introdução a Redes Neurai
 ---
 
 <div align="center">
-  
-### 🔜 Em breve: notebooks práticos no Google Colab!
 
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120">
 
